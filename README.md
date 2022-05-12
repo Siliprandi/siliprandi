@@ -38,4 +38,8 @@
   
   </div>
 
-
+<div align="center">
+  
+  ![Snake animation](https://github.com/siliprandi/siliprandi/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
