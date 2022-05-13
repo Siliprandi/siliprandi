@@ -18,15 +18,15 @@
   </div>
 
 ***
-   <div align="center">
+  <div align="center">
    <img height="380em" src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif">
-   </div>
-   <div align="center">
-   <a href="https://https://www.linkedin.com/in/damaris-siliprandi-3aa1411b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/silihabreu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:silihabreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/damaris-siliprandi-3aa1411b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/silihabreu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:silihabreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-</div>
+  </div>
 
 ***
   
