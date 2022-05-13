@@ -1,8 +1,8 @@
 ### Olá!! Eu sou a Damaris Siliprandi. 👋
 
- 🔭 Estou trabalhando em me desenvolver como Full Stack.
- 🌱 Atualmente estou me aprofundando em HTML, CSS, JavaScript, Angular, Python e Java. 
- 😄 Pronouns: Ela/Dela
+ * 🔭 Estou trabalhando em me desenvolver como Full Stack.
+ * 🌱 Atualmente estou me aprofundando em HTML, CSS, JavaScript, Angular, Python e Java. 
+ * 😄 Pronouns: Ela/Dela
 
 
 ***
