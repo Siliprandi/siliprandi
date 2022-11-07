@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Damaris Siliprandi. 👋
 
- * 🔭 Sou desenvolvedora front-end com foco em resolução de problemas e na experiência do usuário.
+ * 🔭 Desenvolvedora front-end com foco em resolução de problemas e na experiência do usuário.
  
 * 	&#128516; Sou completamente apaixonada por tecnologia desde que ganhei o meu primeiro Super Nitendo. 
 
