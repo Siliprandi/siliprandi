@@ -2,7 +2,6 @@
 
  * 🔭 Desenvolvedora front-end com foco em resolução de problemas e na experiência do usuário.
  
-* 	&#128516; Sou completamente apaixonada por tecnologia desde que ganhei o meu primeiro Super Nitendo. 
 
 ***
  <div align="center" style="display: inline_block"><br>
